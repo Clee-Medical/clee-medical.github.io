@@ -130,14 +130,13 @@ mailchimp:
 #############   About   #############
 #####################################
 about-title: Welcome
-about-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed, suscipit et nisi. Nulla a tellus at turpis gravida congue non sed nisl.
+about-description: The brain is notoriously difficult to access. Surgical access to the brain is however essential to deliver therapeutics, to perform biopsies or to place intracranial electrodes. Neuro Access is a minimally invasive versatile surgical tool.
 
 #####################################
 #############  Features  ############
 #####################################
 features-title: Features
-features-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante.
-
+features-description: Neuro Access integrates innovative imaging and sensing technology to provide unparalleled access, vision and navigation within the brain. Neuro Access works alongside existing neurosurgical equipment and can be easily incorporated into current surgical routines.
 #
 # Features
 #
