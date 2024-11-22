@@ -57,31 +57,39 @@
   </div>
 </section>
 
-<!-- Google Map Embed -->
-<div class="google-map">
-
-  <script async src="https://maps.googleapis.com/maps/api/js?key={{ site.key-api }}&callback=initMap">
-  </script>
-  <div id="map" style='overflow:hidden;height:490px;width:100%;'></div>
-  <script type='text/javascript'>
-    // Initialize and add the map
-    function initMap() {
-      // The location of Uluru
-      const lat = {{ site.map-lat}};
-      const lng = {{ site.map-lng }};
-      
-      const location = { lat, lng };
-      // The map, centered at Uluru
-      const map = new google.maps.Map(document.getElementById("map"), {
-        zoom: 10,
-        center: location,
-      });
-      // The marker, positioned at Uluru
-      const marker = new google.maps.Marker({
-        position: location,
-        map: map,
-      });
+<!-- OpenStreetMap Embed -->
+<div class="osm-map">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    #map {
+      overflow: hidden;
+      height: 490px; /* Match the original height */
+      width: 100%; /* Match the original width */
     }
-  </script>
+  </style>
 
+  <div id="map"></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script type="text/javascript">
+    // Initialize the map
+    const lat = {{ site.map-lat }}; // Replace with your latitude
+    const lng = {{ site.map-lng }}; // Replace with your longitude
+    const location = [lat, lng]; // Leaflet uses [lat, lng] array format
+
+    // Create the map and set view
+    const map = L.map("map").setView(location, 10); // Adjust zoom level as needed
+
+    // Load and display the tile layer from OpenStreetMap
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 19,
+      attribution: "© OpenStreetMap contributors",
+    }).addTo(map);
+
+    // Add a marker at the company location
+    L.marker(location)
+      .addTo(map)
+      .bindPopup("Clee Medical") // Change to your company's name
+      .openPopup();
+  </script>
 </div>
