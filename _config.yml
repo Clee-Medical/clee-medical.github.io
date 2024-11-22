@@ -350,7 +350,7 @@ team:
     linkedin: "https://www.linkedin.com/in/matt-lapinski/"
 
   # Team Member
-  - name: Abed Hammoud, PhD, MBA
+  - name: Abed Hammoud
     tagline: Co-founder and CTO
     avatar: abed-hammoud.jpg
 
@@ -363,7 +363,7 @@ team:
     vimeo: "#"
 
   # Team Member
-  - name: Jules Scholler, PhD
+  - name: Jules Scholler
     tagline: Optical Systems Engineer
     avatar: jules.jpg
 
@@ -434,6 +434,4 @@ contact-description: Nulla a tellus at turpis gravida congue non interdum et mal
 #############   Footer   ############
 #####################################
 footer-description: Nulla a tellus at turpis gravida congue non interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat.
-footer-copyright-text: Ohkimur
-footer-copyright-url: https://github.com/ohkimur
-footer-copyright-year: 2021
+footer-copyright-year: 2024
