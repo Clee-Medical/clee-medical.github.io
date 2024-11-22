@@ -336,9 +336,23 @@ team-description: Nulla a tellus at turpis gravida congue non interdum et malesu
 #
 team:
   # Team Member
-  - name: Jack Skilton
-    tagline: Graphic Designer
-    avatar: avatar-01.jpg
+  - name: Matthew Lapinski
+    tagline: Co-founder and CEO
+    avatar: matt.jpg
+
+    # Social Links
+    youtube: "#"
+    pinterest: "#"
+    facebook: "#"
+    twitter: "#"
+    google-plus: "#"
+    vimeo: "#"
+    linkedin: "https://www.linkedin.com/in/matt-lapinski/"
+
+  # Team Member
+  - name: Abed Hammoud, PhD, MBA
+    tagline: Co-founder and CTO
+    avatar: abed-hammoud.jpg
 
     # Social Links
     youtube: "#"
@@ -349,9 +363,9 @@ team:
     vimeo: "#"
 
   # Team Member
-  - name: James Young
-    tagline: Developer
-    avatar: avatar-02.jpg
+  - name: Jules Scholler, PhD
+    tagline: Optical Systems Engineer
+    avatar: jules.jpg
 
     # Social Links
     youtube: "#"
@@ -362,22 +376,9 @@ team:
     vimeo: "#"
 
   # Team Member
-  - name: Johnatan Doe
-    tagline: Hacker
-    avatar: avatar-04.jpg
-
-    # Social Links
-    youtube: "#"
-    pinterest: "#"
-    facebook: "#"
-    twitter: "#"
-    google-plus: "#"
-    vimeo: "#"
-
-  # Team Member
-  - name: Ecaterina Doe
-    tagline: Support Expert
-    avatar: avatar-03.jpg
+  - name: Gary Evans
+    tagline: Principal Engineer
+    avatar: gary.jpg
 
     # Social Links
     youtube: "#"
