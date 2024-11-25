@@ -232,7 +232,7 @@ core-features-left:
   # Feature
   - name: Real-time
     description: Blood vessel and tissue detection.
-    icon: pe-7s-wristwatch
+    icon: pe-7s-display1
 
   # Feature
   - name: Ultra-high resolution
