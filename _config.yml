@@ -226,7 +226,7 @@ features:
 #####################################
 ##########  Core Features  ##########
 #####################################
-core-title: Core Features
+core-title: Technology
 core-description: Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis aliquet diam ut eleifend.
 
 #
@@ -322,7 +322,7 @@ testimonials:
 #####################################
 ############# Our Blog ##############
 #####################################
-blog-title: Our Blog
+blog-title: News
 blog-description: Read the latest news and achievment about Clee Medical.
 
 #####################################
