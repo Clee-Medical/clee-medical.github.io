@@ -1,7 +1,9 @@
+<!-- Go To Top Button -->
+<a href="#home" class="go-to-top-button"><i class="pe-7s-angle-up"></i></a>
+
 <!-- Site Footer -->
 <footer class="site-footer" id="footer">
   <div class="container">
-
     <div class="row">
       <div class="col-md-6 col-md-push-3 footer-info text-center">
 
@@ -10,12 +12,26 @@
         </div>
 
         <div class="footer-info-text">
-          <li><p><a href="{{ site.linkedin }}" target="_blank"><i class="fi flaticon-linkedin"></i></a></li> {{ site.footer-description }}</p>
-              <a href="{{ site.footer-copyright-url }}">{{ site.footer-copyright-text }}</a> &copy; {{
-            site.footer-copyright-year }} Copyright</p>
+          <ul>
+            <li>
+              <a href="{{ site.linkedin }}" target="_blank">
+                <i class="fi flaticon-linkedin"></i>
+              </a>
+            </li>
+          </ul>
+          <p>{{ site.footer-description }}</p>
+          <p>
+            <a href="{{ site.footer-copyright-url }}">{{ site.footer-copyright-text }}</a> 
+            &copy; {{ site.footer-copyright-year }}
+          </p>
         </div>
+        
+      </div>
+    </div>
   </div>
 </footer>
 
 <!-- Go To Top Button -->
-<a href="#home" class="go-to-top-button"><i class="pe-7s-angle-up"></i></a>
+<a href="#home" class="go-to-top-button">
+  <i class="pe-7s-angle-up"></i>
+</a>
