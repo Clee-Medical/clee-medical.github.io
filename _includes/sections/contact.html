@@ -57,39 +57,4 @@
   </div>
 </section>
 
-<!-- OpenStreetMap Embed -->
-<div class="osm-map">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-  <style>
-    #map {
-      overflow: hidden;
-      height: 490px; /* Match the original height */
-      width: 100%; /* Match the original width */
-    }
-  </style>
-
-  <div id="map"></div>
-
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-  <script type="text/javascript">
-    // Initialize the map
-    const lat = {{ site.map-lat }}; // Replace with your latitude
-    const lng = {{ site.map-lng }}; // Replace with your longitude
-    const location = [lat, lng]; // Leaflet uses [lat, lng] array format
-
-    // Create the map and set view
-    const map = L.map("map").setView(location, 10); // Adjust zoom level as needed
-
-    // Load and display the tile layer from OpenStreetMap
-    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      maxZoom: 19,
-      attribution: "© OpenStreetMap contributors",
-    }).addTo(map);
-
-    // Add a marker at the company location
-    L.marker(location)
-      .addTo(map)
-      .bindPopup("Clee Medical") // Change to your company's name
-      .openPopup();
-  </script>
-</div>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.132023334503175%2C46.2146744270782%2C6.166527271270753%2C46.22809521083787&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=16/46.22139/6.14928">Afficher une carte plus grande</a></small>
