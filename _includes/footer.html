@@ -12,14 +12,12 @@
         </div>
 
         <div class="footer-info-text">
-          <ul>
-            <li>
-              <a href="{{ site.linkedin }}" target="_blank">
-                <i class="fi flaticon-linkedin"></i>
-              </a>
-            </li>
-          </ul>
-          <p>{{ site.footer-description }}</p>
+          <p>
+            <a href="{{ site.linkedin }}" target="_blank" style="display: inline-block; vertical-align: middle; text-decoration: none;">
+              <i class="fi flaticon-linkedin" style="margin-right: 8px; vertical-align: middle;"></i>
+            </a>
+            <span style="vertical-align: middle;">{{ site.footer-description }}</span>
+          </p>
           <p>
             <a href="{{ site.footer-copyright-url }}">{{ site.footer-copyright-text }}</a> 
             &copy; {{ site.footer-copyright-year }}
@@ -35,3 +33,4 @@
 <a href="#home" class="go-to-top-button">
   <i class="pe-7s-angle-up"></i>
 </a>
+
