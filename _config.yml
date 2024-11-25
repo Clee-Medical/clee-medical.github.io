@@ -95,16 +95,12 @@ linkedin : "https://www.linkedin.com/company/clee-medical"
 # About Blog Author Widget
 #
 about-widget:
-  author-avatar: avatar-02.jpg
-  author-name: John Doe
+  author-avatar: team.jpg
+  author-name: Clee Medical
   author-tagline: Blog Author
   author-info: Cum sociis que penatibus et magnis dis parturient montes lorem, nascetur ridiculus mus. Donec quam felis, ultricies.
   author-social-links:
-    youtube: "#"
-    pinterest: "#"
-    facebook: "#"
-    twitter: "#"
-    google-plus: "#"
+    linkedin: "https://www.linkedin.com/company/clee-medical"
 
 # Google Map JS api
 key-api: YOUR_GOOGLE_MAP_API_KEY
@@ -136,26 +132,26 @@ about-description: The brain is notoriously difficult to access. Surgical access
 #####################################
 #############  Features  ############
 #####################################
-features-title: Features
-features-description: Neuro Access integrates innovative imaging and sensing technology to provide unparalleled access, vision and navigation within the brain. Neuro Access works alongside existing neurosurgical equipment and can be easily incorporated into current surgical routines.
-#
-# Features
-#
-features:
-  # Feature
-  - title: Precise
-    description: 200x times better resolution than cutting edge MRI.
-    icon: pe-7s-vector
+# features-title: Features
+# features-description: Neuro Access integrates innovative imaging and sensing technology to provide unparalleled access, vision and navigation within the brain. Neuro Access works alongside existing neurosurgical equipment and can be easily incorporated into current surgical routines.
+# #
+# # Features
+# #
+# features:
+#   # Feature
+#   - title: Precise
+#     description: 200x times better resolution than cutting edge MRI.
+#     icon: pe-7s-vector
 
-  # Feature
-  - title: Enables
-    description: All stereotactic & functional neurosurgeries.
-    icon: pe-7s-help2
+#   # Feature
+#   - title: Enables
+#     description: All stereotactic & functional neurosurgeries.
+#     icon: pe-7s-help2
 
-  # Feature
-  - title: Safety
-    description: Real time guidance through machine learning and AI.
-    icon: pe-7s-airplay
+#   # Feature
+#   - title: Safety
+#     description: Real time guidance through machine learning and AI.
+#     icon: pe-7s-airplay
 
 #####################################
 ############  Portfolio  ############
@@ -227,25 +223,25 @@ features:
 ##########  Core Features  ##########
 #####################################
 core-title: Technology
-core-description: Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis aliquet diam ut eleifend.
+core-description: Neuro Access integrates innovative imaging and sensing technology to provide unparalleled access, vision and navigation within the brain. Neuro Access works alongside existing neurosurgical equipment and can be easily incorporated into current surgical routines.
 
 #
 # Core Features Left
 #
 core-features-left:
   # Feature
-  - name: Creative
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+  - name: Precise
+    description: 200x times better resolution than cutting edge MRI.
     icon: pe-7s-light
 
   # Feature
-  - name: Minimalism
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+  - name: Enables
+    description: All stereotactic & functional neurosurgeries.
     icon: pe-7s-drop
 
   # Feature
-  - name: Clean Coding
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+  - name: Safety
+    description: Real time guidance through machine learning and AI.
     icon: pe-7s-coffee
 
   # Feature
