@@ -341,12 +341,8 @@ team:
     avatar: matt.jpg
 
     # Social Links
-    youtube: "#"
-    pinterest: "#"
-    facebook: "#"
-    twitter: "#"
-    google-plus: "#"
-    vimeo: "#"
+    linkedin: "https://www.linkedin.com/in/matt-lapinski/"
+
 
   # Team Member
   - name: Abed Hammoud
@@ -354,12 +350,7 @@ team:
     avatar: abed-hammoud.jpg
 
     # Social Links
-    youtube: "#"
-    pinterest: "#"
-    facebook: "#"
-    twitter: "#"
-    google-plus: "#"
-    vimeo: "#"
+    linkedin: "https://www.linkedin.com/in/dr-abed-hammoud/"
 
   # Team Member
   - name: Jules Scholler
@@ -367,12 +358,7 @@ team:
     avatar: jules.jpg
 
     # Social Links
-    youtube: "#"
-    pinterest: "#"
-    facebook: "#"
-    twitter: "#"
-    google-plus: "#"
-    vimeo: "#"
+    linkedin: "https://www.linkedin.com/in/jules-scholler-17347790/"
 
   # Team Member
   - name: Gary Evans
@@ -380,12 +366,7 @@ team:
     avatar: gary.jpg
 
     # Social Links
-    youtube: "#"
-    pinterest: "#"
-    facebook: "#"
-    twitter: "#"
-    google-plus: "#"
-    vimeo: "#"
+    linkedin: "https://www.linkedin.com/in/gary-evans-bab171a3/"
 
 #####################################
 ########## Pricing Tables ###########
