@@ -63,7 +63,7 @@ header-focus-button:
 # Secondary Buttons
 header-secondary-button:
   title: Demo
-  url: 
+  url: #contact
 
 #
 # This is your email adress, contact from send here all emails from contact section
