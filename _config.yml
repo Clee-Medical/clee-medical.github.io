@@ -232,22 +232,22 @@ core-features-left:
   # Feature
   - name: Real-time
     description: Blood vessel and tissue detection.
-    icon: pe-7s-light
+    icon: pe-7s-wristwatch
 
   # Feature
   - name: Ultra-high resolution
     description: 20 micrometers - 125,000 more voxels per unit volume than MRI.
-    icon: pe-7s-drop
+    icon: pe-7s-look
 
   # Feature
   - name: Safety
     description: Real time guidance through machine learning and AI.
-    icon: pe-7s-coffee
+    icon: pe-7s-shield
 
   # Feature
   - name: Accuracy
     description: Reach any brain target with unprecedent precision.
-    icon: pe-7s-smile
+    icon: pe-7s-map-marker
 
 #
 # Core Features Right
@@ -256,22 +256,22 @@ core-features-right:
   # Feature
   - name: Enables
     description: All stereotactic & functional neurosurgeries.
-    icon: pe-7s-wine
+    icon: pe-7s-smile
 
   # Feature
   - name: Empowers
     description: Fill the intraoperative imaging gap.
-    icon: pe-7s-monitor
+    icon: pe-7s-map-2
 
   # Feature
   - name: Innovative
     description: Disposable endoscopic probe, compatible with existing neurosurgical workflows.
-    icon: pe-7s-crop
+    icon: pe-7s-science
 
   # Feature
   - name: Quality
     description: Engineered and built in Switzerland.
-    icon: pe-7s-camera
+    icon: pe-7s-diamond
 
 #####################################
 ########### Testimonials ############
