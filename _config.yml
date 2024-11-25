@@ -230,13 +230,13 @@ core-description: Neuro Access integrates innovative imaging and sensing technol
 #
 core-features-left:
   # Feature
-  - name: Precise
-    description: 200x times better resolution than cutting edge MRI.
+  - name: Real-time
+    description: Blood vessel and tissue detection.
     icon: pe-7s-light
 
   # Feature
-  - name: Enables
-    description: All stereotactic & functional neurosurgeries.
+  - name: Ultra-high resolution
+    description: 20 micrometers - 200x times better resolution than cutting edge MRI.
     icon: pe-7s-drop
 
   # Feature
@@ -245,8 +245,8 @@ core-features-left:
     icon: pe-7s-coffee
 
   # Feature
-  - name: Friendly
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+  - name: Accuracy
+    description: Reach any brain target with unprecedent precision.
     icon: pe-7s-smile
 
 #
@@ -254,23 +254,23 @@ core-features-left:
 #
 core-features-right:
   # Feature
-  - name: Branding
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+  - name: Enables
+    description: All stereotactic & functional neurosurgeries.
     icon: pe-7s-wine
 
   # Feature
-  - name: Web Design
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+  - name: Empowers
+    description: Fill the intraoperative imaging gap.
     icon: pe-7s-monitor
 
   # Feature
-  - name: Graphic Design
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+  - name: Innovative
+    description: Disposable endoscopic probe, compatible with existing neurosurgical workflows.
     icon: pe-7s-crop
 
   # Feature
-  - name: Photography
-    description: Lorem ipsum dolor sit amet, consectetuer adipiscing diam.
+  - name: Quality
+    description: Engineered and built in Switzerland.
     icon: pe-7s-camera
 
 #####################################
