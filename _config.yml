@@ -11,10 +11,8 @@ sass:
   sass_dir: _scss
 
 # Information for deploy
-baseurl: "/website"
-
-# the base hostname & protocol for your site
-url: "http://localhost:4000"
+url: "https://www.cleemedical.com"
+baseurl: ""
 
 ####################################
 ######   Optional Features    ######
