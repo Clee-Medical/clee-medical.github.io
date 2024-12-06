@@ -273,52 +273,59 @@ core-features-right:
 #####################################
 ########### Testimonials ############
 #####################################
-testimonials-title: Partners
-testimonials-description:
+#testimonials-title: Partners
+#testimonials-description:
 
 #
 # Testimonials
 #
-testimonials:
-  # Client
-  - name: Wyss Center
-    url: https://wysscenter.ch
-    url-text: wysscenter
-    avatar: wyss.jpg
-    cite:
-    logo-img: wyss.jpg
+# testimonials:
+#   # Client
+#   - name: Wyss Center
+#     url: https://wysscenter.ch
+#     url-text: wysscenter
+#     avatar: wyss.jpg
+#     cite:
+#     logo-img: wyss.jpg
 
-  # Client
-  - name: FONGIT
-    url: https://wysscenter.ch
-    url-text: fongit
-    avatar: fongit.png
-    cite:
-    logo-img: wyss.png
+#   # Client
+#   - name: FONGIT
+#     url: https://wysscenter.ch
+#     url-text: fongit
+#     avatar: fongit.png
+#     cite:
+#     logo-img: wyss.png
 
-  # Client
-  - name: Innosuisse
-    url: https://wysscenter.ch
-    url-text: innosuisse
-    avatar: innosuisse.png
-    cite:
-    logo-img: innosuisse.png
+#   # Client
+#   - name: Innosuisse
+#     url: https://wysscenter.ch
+#     url-text: innosuisse
+#     avatar: innosuisse.png
+#     cite:
+#     logo-img: innosuisse.png
 
-  # Client
-  - name: Bern University of Applied Sciences
-    url: https://wysscenter.ch
-    url-text: bfh
-    avatar: bfh.png
-    cite:
-    logo-img: bfh.png
+#   # Client
+#   - name: Bern University of Applied Sciences
+#     url: https://wysscenter.ch
+#     url-text: bfh
+#     avatar: bfh.png
+#     cite:
+#     logo-img: bfh.png
 
-  # Client
-  - name: Venture Kick
-    url: https://wysscenter.ch
-    url-text: venturekick
-    avatar: venturekick.png
-    cite:
-    logo-img: venturekick.png
+#   # Client
+#   - name: Venture Kick
+#     url: https://wysscenter.ch
+#     url-text: venturekick
+#     avatar: venturekick.png
+#     cite:
+#     logo-img: venturekick.png
+
+#################################
+########### Partners ############
+#################################
+partners-title: Partner
+partners-description: They trust us
+
 
 #####################################
 ############# Our Blog ##############
