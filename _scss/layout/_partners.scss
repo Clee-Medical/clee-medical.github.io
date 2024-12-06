@@ -1,11 +1,3 @@
-/**
- *
- *  Partners Section Style
- *
- *  @package ohkimur_layout
- *
- **/
-
 section.partners-section {
   position: relative;
   padding-bottom: 50px;
@@ -22,11 +14,19 @@ section.partners-section {
     }
   }
 
-  // Cover Image Styling
-  .cover img {
-    width: 100%;            /* Set the image width to cover the container */
-    height: 100%;           /* Set the height to match the container */
-    object-fit: cover;      /* Ensures the image maintains its aspect ratio */
-    object-position: center; /* Centers the image within the div */
+  // Cover Div Styling
+  .cover {
+    position: relative;
+    width: 100%;             /* Ensure it spans the full width */
+    height: auto;            /* Allow the height to scale naturally */
+    overflow: hidden;        /* Prevent content overflow */
+
+    img {
+      width: 100%;           /* Make the image responsive */
+      height: auto;          /* Maintain aspect ratio */
+      display: block;        /* Prevent inline elements spacing issues */
+      object-fit: cover;     /* Scale the image properly */
+      object-position: center; /* Center the image */
+    }
   }
 }
