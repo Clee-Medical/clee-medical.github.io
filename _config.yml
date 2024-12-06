@@ -274,20 +274,20 @@ core-features-right:
 #####################################
 ########### Testimonials ############
 #####################################
-testimonials-title: Testimonials
+testimonials-title: Partners
 testimonials-description: Stay tuned for the first feedbacks on our technology!
 
 #
 # Testimonials
 #
 testimonials:
-  # Client
-  #- name: Johnatan Doe
-  #  url: http://themeforest.net
-  #  url-text: ThemeForest.net
-  #  avatar: avatar-01.jpg
-  #  cite: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer varius adipiscing lectus, eu ornare lectus semper in. Aenean at tincidunt sem. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi id ornare ante. Cras odio nibh, volutpat vitae volutpat sed.
-  #  logo-img: themeforest.png
+  Client
+  - name: Wyss Center
+   url: https://wysscenter.ch
+   url-text: wysscenter
+   avatar:
+   cite:
+   logo-img: wyss.jpg
 
 #####################################
 ############# Our Blog ##############
