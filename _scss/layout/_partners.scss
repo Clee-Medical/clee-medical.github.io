@@ -16,18 +16,13 @@ section.partners-section {
 
   // Cover Div Styling
   .cover {
-    position: relative;
-    width: 100%;             /* Ensure it spans the full width */
-    height: auto;            /* Allow the height to scale naturally */
-    overflow: hidden;        /* Prevent content overflow */
-    padding: 100px 0;
-
+    width: 100%;               /* Full width */
+    overflow: hidden;          /* Ensure no overflow if image doesn't fit perfectly */
+    
     img {
-      width: 100%;           /* Make the image responsive */
-      height: auto;          /* Maintain aspect ratio */
-      display: block;        /* Prevent inline elements spacing issues */
-      object-fit: cover;     /* Scale the image properly */
-      object-position: center; /* Center the image */
+      width: 100%;             /* Image spans full width of container */
+      height: auto;            /* Height adapts automatically to maintain aspect ratio */
+      display: block;          /* Avoid inline element spacing issues */
     }
   }
 }
