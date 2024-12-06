@@ -338,6 +338,40 @@ team:
     # Social Links
     linkedin: "https://www.linkedin.com/in/gary-evans-bab171a3/"
 
+  # Team Member
+  - name: David Segar
+    tagline: Founding advisor, acting CMO, Functional neurosurgeon
+    avatar: Dave.png
+
+    # Social Links
+    linkedin: "https://www.linkedin.com/in/gary-evans-bab171a3/"
+
+  # Team Member
+  - name: Joe Betts-LaCroix
+    tagline: Founding advisor, CEO of Retro Biosciences
+    avatar: Joe.png
+
+    # Social Links
+    linkedin: "https://www.linkedin.com/in/gary-evans-bab171a3/"
+
+  # Team Member
+  - name: Sam Rodrigues
+    tagline: Founding advisor, CEO of FutureHouse
+    avatar: Sam.png
+
+    # Social Links
+    linkedin: "https://www.linkedin.com/in/gary-evans-bab171a3/"
+
+  # Team Member
+  - name: Mat Stratton
+    tagline: Advisor, Principal of COALITION
+    avatar: Mat.png
+
+    # Social Links
+    linkedin: "https://www.linkedin.com/in/gary-evans-bab171a3/"
+
+
+
 #####################################
 ########## Pricing Tables ###########
 #####################################
