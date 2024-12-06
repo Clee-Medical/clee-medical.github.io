@@ -341,7 +341,7 @@ team:
   # Team Member
   - name: David Segar
     tagline: Founding advisor, acting CMO, Functional neurosurgeon
-    avatar: Dave.png
+    avatar: Dave.jpg
 
     # Social Links
     linkedin: "https://www.linkedin.com/in/david-segar/"
@@ -349,7 +349,7 @@ team:
   # Team Member
   - name: Joe Betts-LaCroix
     tagline: Founding advisor, CEO of Retro Biosciences
-    avatar: Joe.png
+    avatar: Joe.jpg
 
     # Social Links
     linkedin: "https://www.linkedin.com/in/bettslacroix/"
@@ -357,7 +357,7 @@ team:
   # Team Member
   - name: Sam Rodrigues
     tagline: Founding advisor, CEO of FutureHouse
-    avatar: Sam.png
+    avatar: Sam.jpg
 
     # Social Links
     linkedin: "https://www.linkedin.com/in/samuel-g-rodriques-080a9b22/"
@@ -365,7 +365,7 @@ team:
   # Team Member
   - name: Mat Stratton
     tagline: Advisor, Principal of COALITION
-    avatar: Mat.png
+    avatar: Mat.jpg
 
     # Social Links
     linkedin: "https://www.linkedin.com/in/mat-stratton-a6269317/"
