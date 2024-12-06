@@ -2,17 +2,32 @@
 <footer class="site-footer" id="footer">
   <div class="container">
 
-    <div class="row">
-      <div class="col-md-6 col-md-push-3 footer-info text-center">
+Updated HTML:
 
-        <div class="footer-logo">
-          <img src="{{ site.baseurl }}/images/logo-focus.svg" width="200" alt="Clee Medical" />
+      <div class="row">
+        <div class="col-md-6 col-md-push-3 footer-info text-center">
+
+          <div class="footer-logo-address">
+            <!-- Logo -->
+            <div class="footer-logo">
+              <img src="{{ site.baseurl }}/images/logo-focus.svg" width="200" alt="Clee Medical" />
+            </div>
+
+            <!-- Company Address -->
+            <div class="footer-address">
+              <p>
+                Clee Medical SA<br>
+                Chemin des Mines 9<br>
+                1202 Geneva Switzerland
+              </p>
+            </div>
+          </div>
+
+          <div class="footer-info-text">
+            <p><a href="{{ site.linkedin }}" target="_blank"><i class="fi flaticon-linkedin"></i></a>  {{ site.footer-description }}</p>
+          </div>
+
         </div>
-
-        <div class="footer-info-text">
-          <p><a href="{{ site.linkedin }}" target="_blank"><i class="fi flaticon-linkedin"></i></a>  {{ site.footer-description }}</p>
-        </div>
-
       </div>
 
       <div class="col-md-8 col-md-push-2 footer-copyright">

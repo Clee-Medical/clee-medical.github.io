@@ -54,4 +54,17 @@ footer.site-footer {
     }
   }
 
+  .footer-logo-address {
+  display: flex;               /* Use flexbox to align items side by side */
+  align-items: center;         /* Vertically center the logo and address */
+  justify-content: center;     /* Center the whole block horizontally */
+  gap: 20px;                   /* Add some spacing between the logo and address */
+}
+
+.footer-address {
+  text-align: left;            /* Align text of the address to the left */
+  font-size: 14px;             /* Adjust font size as needed */
+  line-height: 1.5;            /* Improve readability */
+}
+
 }
