@@ -1,6 +1,6 @@
 section.partners-section {
   position: relative;
-  padding-bottom: 50px;
+  padding-bottom: 20px;
   color: $light-blue;
 
   // Section Header
@@ -16,11 +16,11 @@ section.partners-section {
 
   // Cover Div Styling
   .cover {
-    width: 100%;               /* Full width */
+    width: 150%;               /* Full width */
     overflow: hidden;          /* Ensure no overflow if image doesn't fit perfectly */
     
     img {
-      width: 100%;             /* Image spans full width of container */
+      width: 150%;             /* Image spans full width of container */
       height: auto;            /* Height adapts automatically to maintain aspect ratio */
       display: block;          /* Avoid inline element spacing issues */
     }
