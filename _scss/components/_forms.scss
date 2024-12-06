@@ -18,7 +18,7 @@ input, textarea, button {
   position: relative;
   width: 100%;
   height: auto;
-  font-size: 1rem;
+  font-size: 1.25rem;
   font-family: $font-family;
   padding: 15px;
   outline: 0;
@@ -29,19 +29,19 @@ input, textarea, button {
 
   // Placeholders
   &::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-    color: $simple-gray;
+    color: $black;
     transition: color $transition-links $transition-links-type;
   }
   &::-moz-placeholder { /* Firefox 19+ */
-    color: $simple-gray;
+    color: $black;
     transition: color $transition-links $transition-links-type;
   }
   &:-ms-input-placeholder { /* IE 10+ */
-    color: $simple-gray;
+    color: $black;
     transition: color $transition-links $transition-links-type;
   }
   &:-moz-placeholder { /* Firefox 18- */
-    color: $simple-gray;
+    color: $black;
     transition: color $transition-links $transition-links-type;
   }
 
