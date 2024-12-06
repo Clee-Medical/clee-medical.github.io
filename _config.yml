@@ -285,9 +285,9 @@ testimonials:
   - name: Wyss Center
     url: https://wysscenter.ch
     url-text: wysscenter
-    avatar: avatar-01.jpg
-    cite: Test
-    logo-img: wyss.jpg
+    avatar: wyss.jpg
+    cite:
+    logo-img:
 
 #####################################
 ############# Our Blog ##############
