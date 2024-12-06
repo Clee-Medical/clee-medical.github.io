@@ -348,7 +348,7 @@ team:
 
   # Team Member
   - name: Joe Betts-LaCroix
-    tagline: Founding advisor, CEO of Retro Biosciences
+    tagline: Founding advisor<br> CEO of Retro Biosciences
     avatar: Joe.jpg
 
     # Social Links
@@ -356,7 +356,7 @@ team:
 
   # Team Member
   - name: Sam Rodrigues
-    tagline: Founding advisor, CEO of FutureHouse
+    tagline: Founding advisor<br> CEO of FutureHouse
     avatar: Sam.jpg
 
     # Social Links
@@ -364,7 +364,7 @@ team:
 
   # Team Member
   - name: Mat Stratton
-    tagline: Advisor, Principal of COALITION
+    tagline: Advisor<br> Principal of COALITION
     avatar: Mat.jpg
 
     # Social Links
