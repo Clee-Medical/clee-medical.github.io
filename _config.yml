@@ -280,14 +280,14 @@ testimonials-description: Stay tuned for the first feedbacks on our technology!
 #
 # Testimonials
 #
-testimonials:
-  Client
-  - name: Wyss Center
-   url: https://wysscenter.ch
-   url-text: wysscenter
-   # avatar: ''
-   # cite: ''
-   logo-img: wyss.jpg
+# testimonials:
+#   Client
+#   - name: Wyss Center
+#    url: https://wysscenter.ch
+#    url-text: wysscenter
+#    # avatar: ''
+#    # cite: ''
+#    logo-img: wyss.jpg
 
 #####################################
 ############# Our Blog ##############
