@@ -45,9 +45,9 @@ title: Clee Medical SA
 # Website language
 lang: en-US
 # Header Title
-header-title: Enabling safer and more precise <strong>brain surgeries</strong>
+header-title: <strong>Forging a new era of highly targeted neuro therapies</strong>
 # Header Tagline
-headter-tagline: Neuro Access
+headter-tagline: 
 
 ####################################
 ######   CTA Header Buttons   ######
@@ -60,8 +60,8 @@ header-focus-button:
 
 # Secondary Buttons
 header-secondary-button:
-  title: Demo
-  url: #contact
+  title: Contact us
+  url: https://www.cleemedical.com/#contact
 
 #
 # This is your email adress, contact from send here all emails from contact section
@@ -124,8 +124,8 @@ mailchimp:
 #####################################
 #############   About   #############
 #####################################
-about-title: Welcome
-about-description: The brain is notoriously difficult to access. Surgical access to the brain is however essential to deliver therapeutics, to perform biopsies or to place intracranial electrodes. Neuro Access is a minimally invasive versatile surgical tool.
+about-title: Vision
+about-description: Our vision at Clee Medical is to redefine the boundaries of neuroscience with minimally invasive technologies that enable unparalleled precision, enhance patient outcomes, and forge a new era of highly targeted neurotherapies for a healthier, more connected world.
 
 #####################################
 #############  Features  ############
@@ -221,7 +221,7 @@ about-description: The brain is notoriously difficult to access. Surgical access
 ##########  Core Features  ##########
 #####################################
 core-title: Technology
-core-description: Neuro Access integrates innovative imaging and sensing technology to provide unparalleled access, vision and navigation within the brain. Neuro Access works alongside existing neurosurgical equipment and can be easily incorporated into current surgical routines.
+core-description: We are currently developing an innovative imaging and sensing technology to provide unparalleled access, vision and navigation within the brain. It works alongside existing neurosurgical equipment and can be easily incorporated into current surgical routines.
 
 #
 # Core Features Left
@@ -293,13 +293,13 @@ testimonials:
 ############# Our Blog ##############
 #####################################
 blog-title: News
-blog-description: Read the latest news and achievment about Clee Medical.
+blog-description:
 
 #####################################
 ############### Team ################
 #####################################
 team-title: Meet Our Team
-team-description: We are working with clinical and industry partners to develop innovations to overcome current limitations in accessing the brain.
+team-description:
 
 #
 # Team Members
