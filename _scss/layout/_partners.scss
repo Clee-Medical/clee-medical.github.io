@@ -21,3 +21,12 @@ section.partners-section {
       background: $white;
     }
   }
+
+  // Cover Image Styling
+  .cover img {
+    width: 100%;            /* Set the image width to cover the container */
+    height: 100%;           /* Set the height to match the container */
+    object-fit: cover;      /* Ensures the image maintains its aspect ratio */
+    object-position: center; /* Centers the image within the div */
+  }
+}
