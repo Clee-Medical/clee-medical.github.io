@@ -6,3 +6,18 @@
  *
  **/
 
+section.partners-section {
+  position: relative;
+  padding-bottom: 50px;
+  color: $light-blue;
+
+  // Section Header
+  header.section-header {
+    h2, h3, h4 {
+      color: $black;
+    }
+
+    hr {
+      background: $white;
+    }
+  }
