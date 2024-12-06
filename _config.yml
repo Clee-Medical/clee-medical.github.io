@@ -275,7 +275,7 @@ core-features-right:
 ########### Testimonials ############
 #####################################
 testimonials-title: Partners
-testimonials-description: Stay tuned for the first feedbacks on our technology!
+testimonials-description:
 
 #
 # Testimonials
@@ -287,7 +287,39 @@ testimonials:
     url-text: wysscenter
     avatar: wyss.jpg
     cite:
-    logo-img:
+    logo-img: wyss.jpg
+
+  # Client
+  - name: FONGIT
+    url: https://wysscenter.ch
+    url-text: fongit
+    avatar: fongit.png
+    cite:
+    logo-img: wyss.png
+
+  # Client
+  - name: Innosuisse
+    url: https://wysscenter.ch
+    url-text: innosuisse
+    avatar: innosuisse.png
+    cite:
+    logo-img: innosuisse.png
+
+  # Client
+  - name: Bern University of Applied Sciences
+    url: https://wysscenter.ch
+    url-text: bfh
+    avatar: bfh.png
+    cite:
+    logo-img: bfh.png
+
+  # Client
+  - name: Venture Kick
+    url: https://wysscenter.ch
+    url-text: venturekick
+    avatar: venturekick.png
+    cite:
+    logo-img: venturekick.png
 
 #####################################
 ############# Our Blog ##############
