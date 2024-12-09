@@ -17,7 +17,7 @@ baseurl: ""
 ####################################
 ######   Optional Features    ######
 ####################################
-smooth-scroll: false
+smooth-scroll: true 
 
 ####################################
 ###########   Plugins    ###########
@@ -153,32 +153,32 @@ about-description: Our vision is to redefine the boundaries of neuroscience with
 #####################################
 ############  Portfolio  ############
 #####################################
-#portfolio-title: Portfolio
-#portfolio-description: Maecenas tempus nec mi et placerat. Duis at odio vitae ex gravida volutpat. Nulla finibus aliquet diam ut eleifend. Mauris consequat interdum quam. Mauris dui sapien, efficitur et cursus id, molestie fringilla turpis.
+portfolio-title:
+portfolio-description:
 
-#
-# Portfolio Grid
-#
-#portfolio-categories:
-#  [Websites, Logo, Graphic Design, Development, Video, Photography]
-# portfolio:
-#   # Portfolio Item
-#   - title: S<span class="thin">era</span> Style
-#     categories: [Websites, Graphic Design]
-#     image: img-01.jpg
-#     url: "#"
+Portfolio Grid
 
-#   # Portfolio Item
-#   - title: S<span class="thin">era</span> Style
-#     categories: [Graphic Design, Logo, Websites]
-#     image: img-02.jpg
-#     url: "#"
+portfolio-categories:
+ [Websites, Logo, Graphic Design, Development, Video, Photography]
 
-#   # Portfolio Item
-#   - title: S<span class="thin">era</span> Style
-#     categories: [Graphic Design, Logo, Photography]
-#     image: img-03.jpg
-#     url: "#"
+portfolio:
+  # Portfolio Item
+  - title: Histology
+    categories: [Websites, Graphic Design]
+    image: img-01.jpg
+    url: "https://cleemedical.com/tech.html"
+
+  # Portfolio Item
+  - title: MRI
+    categories: [Graphic Design, Logo, Websites]
+    image: img-02.jpg
+    url: "https://cleemedical.com/tech.html"
+
+  # Portfolio Item
+  - title: Clee Imaging
+    categories: [Graphic Design, Logo, Photography]
+    image: img-03.jpg
+    url: "https://cleemedical.com/tech.html"
 
 #   # Portfolio Item
 #   - title: S<span class="thin">era</span> Style
