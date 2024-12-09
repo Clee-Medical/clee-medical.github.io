@@ -160,24 +160,24 @@ portfolio-description: "Brain surgery traditionally relies on pre-operative MRI 
 #Portfolio Grid
 
 portfolio-categories:
- [Websites, Logo, Graphic Design, Development, Video, Photography]
+ [H&E, 3T, OCT, Development, Video, Photography]
 
 portfolio:
   # Portfolio Item
   - title: Histology
-    categories: [Websites, Graphic Design]
+    categories: [H&E]
     image: img-01.jpg
     url: "https://cleemedical.com/tech.html"
 
   # Portfolio Item
   - title: MRI
-    categories: [Graphic Design, Logo, Websites]
+    categories: [3T]
     image: img-02.jpg
     url: "https://cleemedical.com/tech.html"
 
   # Portfolio Item
   - title: Clee Imaging
-    categories: [Graphic Design, Logo, Photography]
+    categories: [OCT]
     image: img-03.jpg
     url: "https://cleemedical.com/tech.html"
 
