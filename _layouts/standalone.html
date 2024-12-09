@@ -12,7 +12,7 @@
 <header class="site-header parallax" id="home" data-scrollax-parent="true">
 
   <!-- Parallax Header Image -->
-  <div class="parallax-wrapper">
+  <div class="parallax-tech-wrapper">
     <div class="cover" data-scrollax="properties: { 'translateY': '10%' }">
       <img src="{{ site.baseurl }}/images/header-image-crop.jpg" alt="Clee Medical" />
     </div>
@@ -63,7 +63,13 @@
   </div>
 </header>
 
-    {{ content }}
+    <!-- Article Content -->
+    <div class="article-content">
+      {{ page.content }}
+    </div>
+
+</div>
+
 
     {% include footer.html %}
 
