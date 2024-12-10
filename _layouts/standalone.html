@@ -45,13 +45,13 @@
         <!-- Navigation Menu -->
         <nav id="navMenu" class="nav-menu">
           <ul class="menu">
-            <li class="current-menu-item"><a href="#home">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#parallax-features">Technology</a></li>
-            <li><a href="#blog">News</a></li>
-            <li><a href="#team">Team</a></li>
-            <li><a href="#partners">Partners</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li class="current-menu-item"><a href="https://cleemedical.com/#home">Home</a></li>
+            <li><a href="https://cleemedical.com/#about">About</a></li>
+            <li><a href="https://cleemedical.com/#parallax-features">Technology</a></li>
+            <li><a href="https://cleemedical.com/#blog">News</a></li>
+            <li><a href="https://cleemedical.com/#team">Team</a></li>
+            <li><a href="https://cleemedical.com/#partners">Partners</a></li>
+            <li><a href="https://cleemedical.com/#contact">Contact</a></li>
           </ul>
         </nav>
 
@@ -63,12 +63,24 @@
   </div>
 </header>
 
-    <!-- Article Content -->
-    <div class="article-content">
-      {{ page.content }}
-    </div>
+    <!-- Page Section -->
+    <section class="site-section blog-section page-layout" id="start">
+      <div class="container">
 
-</div>
+        <!-- Page Layout -->
+        <div class="row">
+
+          <!-- Content -->
+          <div class="col-md-12 blog-articles-container">
+
+            {{ content }}
+
+          </div>
+
+        </div>
+
+      </div>
+    </section>
 
 
     {% include footer.html %}
