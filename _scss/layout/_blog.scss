@@ -102,7 +102,17 @@ section.blog-section {
       width: 100%;
       float: left;
       margin-bottom: 30px;
-      list-style: initial;
+
+      .post-content ul,
+      .post-content ol {
+          list-style: initial; /* Restores default bullets (ul) or numbers (ol) */
+          padding-left: 2rem; /* Adds indentation */
+      }
+
+      /* Also target the list items directly */
+      .post-content li {
+          margin-bottom: 0.5rem; /* Adds spacing between list items */
+      }
 
       &.blog-single-page {
         header.article-header {
@@ -205,6 +215,25 @@ section.blog-section {
 
           p {
             line-height: 1.4;
+          }
+
+          /* Style for unordered (bulleted) lists */
+          ul {
+            list-style: initial; /* Restores default bullet points */
+            padding-left: 2rem;  /* Adds indentation */
+            margin: 0.5rem 0;    /* Adds spacing above and below lists */
+          }
+
+          /* Style for ordered (numbered) lists */
+          ol {
+            list-style: decimal; /* Restores default number style */
+            padding-left: 2rem;  /* Adds indentation */
+            margin: 0.5rem 0;    /* Adds spacing above and below lists */
+          }
+
+          /* List items (li) styling */
+          li {
+            margin-bottom: 0.5rem; /* Adds spacing between list items */
           }
         }
 
