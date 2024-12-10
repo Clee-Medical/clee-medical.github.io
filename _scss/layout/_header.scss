@@ -147,7 +147,9 @@ header.site-header {
           margin-top: 40px;
           margin-bottom: 40px;
         }
-        background: $black;
+        h1.small{
+          background: transparentize($black, 0.7);
+        }
       }
 
       .buttons-header {
