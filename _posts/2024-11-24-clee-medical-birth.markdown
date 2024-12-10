@@ -8,9 +8,7 @@ tags: [News, Company]
 image: img-01.jpg
 ---
 
-#### Clee Medical, a neuro technology start up focused on transforming the landscape of brain treatments.
-
-Officially incorporated in October 2024, Clee Medical is proud to spin out of the Wyss Center in Geneva, Switzerland. With a vision to revolutionize neurointerventional precision and outcomes, Clee Medical is at the forefront of developing cutting-edge, minimally invasive neurotechnologies that empower clinicians with real-time imaging, AI-driven navigation, and machine learning insights for true confidence in neural targeting.
+Clee Medical, a neuro technology start up focused on transforming the landscape of brain treatments. Officially incorporated in October 2024, Clee Medical is proud to spin out of the Wyss Center in Geneva, Switzerland. With a vision to revolutionize neurointerventional precision and outcomes, Clee Medical is at the forefront of developing cutting-edge, minimally invasive neurotechnologies that empower clinicians with real-time imaging, AI-driven navigation, and machine learning insights for true confidence in neural targeting.
 Clee Medical’s flagship technology integrates ultra-high-resolution, real-time intraoperative imaging with AI-based navigation and machine learning detection of neuroanatomy and vasculature. This powerful combination gives surgeons unprecedented visibility and decision-making support, ensuring access to the most precise areas of the brain while minimizing risk to surrounding critical structures.
 
 <blockquote>
