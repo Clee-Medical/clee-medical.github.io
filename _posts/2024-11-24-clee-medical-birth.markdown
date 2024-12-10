@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Clee Medical's birth"
-tagline: Single Page
+tagline:
 date: 2024-11-24 11:00
 categories: [News]
 tags: [News, Company]
