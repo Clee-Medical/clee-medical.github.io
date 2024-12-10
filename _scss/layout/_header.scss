@@ -137,11 +137,11 @@ header.site-header {
     max-height: calc(1080px - 250px);
     z-index: 2;
     color: $white;
-    background: $black;
 
     .heading-content {
       width: 100%;
       text-transform: uppercase;
+      background: $black;
 
       .heading-title {
         hr.small {
