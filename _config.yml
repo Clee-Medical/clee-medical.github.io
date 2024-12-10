@@ -167,19 +167,19 @@ portfolio:
   - title: Histology
     categories: [H&E]
     image: img-01.jpg
-    url: "https://cleemedical.com/tech.html"
+    url: "https://www.cleemedical.com/news/2024/12/10/our-technology.html"
 
   # Portfolio Item
   - title: MRI
     categories: [3T]
     image: img-02.jpg
-    url: "https://cleemedical.com/tech.html"
+    url: "https://www.cleemedical.com/news/2024/12/10/our-technology.html"
 
   # Portfolio Item
   - title: Clee Imaging
     categories: [OCT]
     image: img-03.jpg
-    url: "https://cleemedical.com/tech.html"
+    url: "https://www.cleemedical.com/news/2024/12/10/our-technology.html"
 
 #   # Portfolio Item
 #   - title: S<span class="thin">era</span> Style
