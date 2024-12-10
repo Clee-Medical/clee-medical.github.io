@@ -208,21 +208,21 @@ section.blog-section {
 
           /* Style for unordered (bulleted) lists */
           ul {
-            list-style: initial; /* Restores default bullet points */
-            padding-left: 2rem;  /* Adds indentation */
-            margin: 0.5rem 0;    /* Adds spacing above and below lists */
+            list-style: initial !important; /* Restores default bullet points */
+            padding-left: 2rem !important;  /* Adds indentation */
+            margin: 0.5rem 0 !important;    /* Adds spacing above and below lists */
           }
 
           /* Style for ordered (numbered) lists */
           ol {
-            list-style: decimal; /* Restores default number style */
-            padding-left: 2rem;  /* Adds indentation */
-            margin: 0.5rem 0;    /* Adds spacing above and below lists */
+            list-style: decimal !important; /* Restores default number style */
+            padding-left: 2rem !important;  /* Adds indentation */
+            margin: 0.5rem 0 !important;    /* Adds spacing above and below lists */
           }
 
           /* List items (li) styling */
           li {
-            margin-bottom: 0.5rem; /* Adds spacing between list items */
+            margin-bottom: 0.5rem !important; /* Adds spacing between list items */
           }
         }
 
