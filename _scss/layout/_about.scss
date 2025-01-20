@@ -24,9 +24,3 @@
   height: 100%;
   max-width: 100%; /* Add this to prevent oversized iframes */
 }
-
-@media (max-width: 600px) {
-  .video-container {
-    padding-bottom: 75%; /* Adjust for a taller ratio if preferred on narrow screens */
-  }
-}
