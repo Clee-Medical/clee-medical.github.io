@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "First publication"
-tagline: Optical Coherence Tomography
+title:  "First scientific publication"
+tagline: Biomedical Optics Express
 date: 2025-02-04 11:00
 categories: [News]
 tags: [News, Technology]
