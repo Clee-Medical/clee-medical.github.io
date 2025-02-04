@@ -2,7 +2,7 @@
 layout: post
 title:  "First scientific publication"
 tagline: Biomedical Optics Express
-date: 2025-02-04 11:00
+date: 2025-02-03 11:00
 categories: [News]
 tags: [News, Technology]
 image: paper.png
