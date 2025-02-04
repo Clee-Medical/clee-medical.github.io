@@ -8,7 +8,8 @@ tags: [News, Technology]
 image: paper.png
 ---
 
-#### Exciting Milestone: Our First Scientific Paper Published in Biomedical Optics Express!
+### Exciting Milestone: Our First Scientific Paper Published in Biomedical Optics Express!
+
 
 We are thrilled to announce the publication of our first scientific technical paper, "Minimally-invasive common-path OCT system for neurosurgery applications" in Biomedical Optics Express. This marks a significant milestone for our team at Clee Medical as we advance the frontiers of neurosurgical imaging technology.
 
