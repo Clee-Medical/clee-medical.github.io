@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Futur of Health Grant 2024"
+title:  "Futur of Health Grant"
 tagline: 6 awarded startups from 243 applicants
 date: 2025-02-03 11:00
 categories: [News]
@@ -8,7 +8,7 @@ tags: [News, Grant]
 image: futurofhealth.jpg
 ---
 
-# Clee Medical Wins Future of Health Grant 🎉  
+## Clee Medical Wins Future of Health Grant 🎉  
 
 We are thrilled to announce that **Clee Medical** has been selected as one of the six startups to receive the prestigious **Future of Health Grant** amonst 243 applicants!  
 
