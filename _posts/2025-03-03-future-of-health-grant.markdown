@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Future of Health Grant"
+title:  "Future of Health Grant 2025"
 tagline: 6 awarded startups from 243 applicants
 date: 2025-02-03 11:00
 categories: [News]
@@ -8,9 +8,9 @@ tags: [News, Grant]
 image: futurofhealth.jpg
 ---
 
-## Clee Medical Wins Future of Health Grant 🎉  
+## Clee Medical Wins Future of Health Grant 2025 🎉  
 
-We are thrilled to announce that **Clee Medical** has been selected as one of the six startups to receive the prestigious **Future of Health Grant** amonst 243 applicants!  
+We are thrilled to announce that **Clee Medical** has been selected as one of the six startups to receive the prestigious **Future of Health Grant 2025** amonst 243 applicants!  
 
 The **Future of Health Grant**, initiated by **CSS** and **EPFL Innovation Park**, recognizes and supports groundbreaking startups that are shaping the future of healthcare. This recognition is a testament to our commitment to revolutionizing **surgical precision** and **patient safety** through cutting-edge medical technology.  
 
