@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Futur of Health Grant"
+title:  "Future of Health Grant"
 tagline: 6 awarded startups from 243 applicants
 date: 2025-02-03 11:00
 categories: [News]
