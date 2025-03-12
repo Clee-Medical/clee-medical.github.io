@@ -234,7 +234,7 @@ core-features-left:
 
   # Feature
   - name: Ultra-high resolution
-    description: 20 micrometers - 125,000 more voxels per unit volume than MRI.
+    description: 15 micrometers - 300,000 more voxels per unit volume than MRI.
     icon: pe-7s-look
 
   # Feature
