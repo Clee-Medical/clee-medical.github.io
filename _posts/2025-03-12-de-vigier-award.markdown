@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Future of Health Grant 2025"
-tagline: 6 awarded startups from 243 applicants
+title:  "Next Stage of the W.A. de Vigier Award"
+tagline: 15 selected start-ups
 date: 2025-02-03 11:00
 categories: [News]
 tags: [News, Grant]
