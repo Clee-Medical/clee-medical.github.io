@@ -2,7 +2,7 @@
 layout: post
 title:  "Next Stage of the W.A. de Vigier Award"
 tagline: 15 selected start-ups
-date: 2025-02-03 11:00
+date: 2025-03-12 11:00
 categories: [News]
 tags: [News, Grant]
 image: devigier.png
