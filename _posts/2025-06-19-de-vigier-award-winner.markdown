@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "W.A. de Vigier Award winner"
-tagline: W
+tagline: 
 date: 2025-06-19 11:00
 categories: [News]
 tags: [News, Grant]
