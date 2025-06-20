@@ -8,8 +8,8 @@ tags: [News, Grant]
 image: devigier.png
 ---
 
-## Clee Medical Advances to the Next Stage of the W.A. de Vigier Award 2025 🎉  
-
+## Clee Medical Advances to the Next Stage of the W.A. de Vigier Award 2025 🎉  <br>
+<br>
 We are excited to share that **Clee Medical** has been selected as one of the **15 startups** advancing to the next stage of the prestigious **W.A. de Vigier Award 2025**!  
 
 The **W.A. de Vigier Award** is Switzerland’s longest-standing prize for young entrepreneurs, recognizing innovative startups that have the potential to make a significant impact in their industries. Being among the selected companies is a great honor and reinforces our mission to **redefine neurosurgical care through AI-driven imaging solutions**.  

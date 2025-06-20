@@ -8,9 +8,8 @@ tags: [News, Technology]
 image: paper.png
 ---
 
-### Exciting Milestone: Our First Scientific Paper Published in Biomedical Optics Express!
-
-
+### Exciting Milestone: Our First Scientific Paper Published in Biomedical Optics Express!<br>
+<br>
 We are thrilled to announce the publication of our first scientific technical paper, "Minimally-invasive common-path OCT system for neurosurgery applications" in Biomedical Optics Express. This marks a significant milestone for our team at Clee Medical as we advance the frontiers of neurosurgical imaging technology.
 
 Our research presents a groundbreaking optical coherence tomography (OCT) system tailored specifically for neurosurgery. This minimally invasive, forward-viewing, common-path OCT system operates at 1310 nm and features real-time 3D imaging capabilities. Designed with a novel monolithic endoscope, the system enhances the accuracy of stereotactic surgeries such as deep brain stimulation (DBS) and biopsies by providing real-time tissue identification and blood flow detection, significantly reducing the risk of intraoperative hemorrhage.
