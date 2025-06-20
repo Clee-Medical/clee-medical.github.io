@@ -39,7 +39,9 @@ header.site-header {
     overflow: hidden;
     position: absolute;
     width: 100%;
-    height: 100vh;
+    width: auto;        /* scale width to keep ratio */
+    margin: 0 auto;     /* center it horizontally */
+    //height: 100vh;
     //max-height: 1080px;
     top: 0;
     left: 0;
