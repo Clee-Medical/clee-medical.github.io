@@ -16,11 +16,14 @@ This collaboration marks a significant milestone in Clee Medical’s mission to 
 Working alongside SFITS, a leading European center for surgical training and innovation, the partnership will also enable early integration of Neuro Access into surgical training programs. This hands-on collaboration will foster direct feedback from clinicians and accelerate technology refinement under real-world conditions. <br> <br>
 
 <blockquote>
-“Partnering with SFITS allows us to demonstrate and evolve our technology within one of the most advanced surgical innovation environments in Europe,</blockquote> said Matthew Lapinski, CEO of Clee Medical. <blockquote>It’s an important step toward bringing safer, more precise, and more effective neurosurgery to patients worldwide.</blockquote>
+“Partnering with SFITS allows us to demonstrate and evolve our technology within one of the most advanced surgical innovation environments in Europe,
+</blockquote> said Matthew Lapinski, CEO of Clee Medical. 
+<blockquote>It’s an important step toward bringing safer, more precise, and more effective neurosurgery to patients worldwide.</blockquote>
 
 <br> <br>
 
-Dr. Jelena Godjevac, CEO of SFITS, added: <blockquote>We are delighted to welcome Clee Medical to our ecosystem. Their real-time neuroimaging and navigation platform represents the kind of innovation that advances surgical excellence and patient outcomes.</blockquote>
+Dr. Jelena Godjevac, CEO of SFITS, added: 
+<blockquote>We are delighted to welcome Clee Medical to our ecosystem. Their real-time neuroimaging and navigation platform represents the kind of innovation that advances surgical excellence and patient outcomes.</blockquote>
 <br> <br>
 
 This partnership reinforces Clee Medical’s commitment to bridging the gap between next-generation neurotechnology and clinical practice and is a significant step forward towards a new era of patient-centered innovation in neurosurgery.
