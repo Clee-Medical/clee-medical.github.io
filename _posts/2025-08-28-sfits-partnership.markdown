@@ -8,17 +8,6 @@ tags: [News]
 image: sfits.jpg
 ---
 
-## Clee Medical honored with the W.A De Vigier award 2025, one of Switzlerand’s most prestigious prizes for entrepreneurs and start ups. 🎉  <br>
-<br>
-This recognition fuels our mission to enable safer, more precise access to the brain by combining novel real-time ultra-high-resolution imaging with AI-guided navigation to treat neurological conditions ranging from neurostimulation, epilepsy, cancer, and beyond.
-
-This milestone wouldn’t have been possible without the incredible support from our partners, advisors, investors, and early clinical collaborations. A heartfelt thank you to everyone who believes in our vision and pushes us forward every day.
-
-A special thanks to the W.A. De Vigier Stiftung for believing in deeptech innovation and to our amazing fellow finalists.
-
-Onwards as we forge a new era of highly targeted neuro therapies!
-
-
 Clee Medical is proud to announce a strategic partnership with the Swiss Foundation for Innovation and Training in Surgery (SFITS) to accelerate the clinical validation and adoption of its real-time intraoperative imaging and AI-guided navigation technology. <br> <br>
 
 This collaboration marks a significant milestone in Clee Medical’s mission to empower neurosurgeons with real-time visualization of brain anatomy and vasculature at unprecedented precision. By integrating ultra-high-resolution imaging with AI-based anatomical detection, the company’s Neuro Access platform aims to enhance surgical accuracy, improve patient safety, and expand access to advanced neurotherapies. <br> <br>
