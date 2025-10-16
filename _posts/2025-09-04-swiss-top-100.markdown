@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Clee Medical ranked #56 in the 2025 Swiss Top 100 Startups"
+tagline: 
+date: 2025-09-04 11:00
+categories: [News]
+tags: [News]
+image: swisstop100.png
+---
+
+Clee Medical has been recognized among Switzerland’s most promising startups, ranking #56 in the 2025 Swiss Top 100 Startups. The Swiss Top 100 Startups ranking showcases the country’s most innovative and high-potential young companies. Compiled annually by a jury of leading venture capitalists, investors, and industry experts, the list highlights Switzerland’s thriving startup ecosystem across deep tech, life sciences, and digital innovation. <br> <br>
+
+This recognition marks another important milestone in Clee Medical’s journey to transform neurosurgery through real-time intraoperative imaging and AI-driven navigation. The company’s Neuro Access platform enables surgeons to visualize brain structures and vasculature in unprecedented detail leading to improved safety, precision, and efficiency in the operating room.
+
