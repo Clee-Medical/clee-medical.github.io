@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "🎉 Clee Medical celebrates one year of advancing neuro-imaging innovation"
+tagline: 
+date: 2025-09-04 11:00
+categories: [News]
+tags: [News]
+image: 1year.jpg
+---
+
+Clee Medical is proud to celebrate its first anniversary, marking a year of rapid growth, clinical progress, and technological achievement on its mission to enable safer, more precise, and more effective neurosurgery. <br> <br>
+
+Since its founding as a spin-out from the Wyss Center, Clee Medical has evolved from a research concept into a leading force in real-time intraoperative imaging and AI-guided navigation. Over the past year, the team has reached several major milestones from prestigious awards to clinical validation and strategic collaborations.
+ <br> <br>
+
+In our first year, we:
+ <br> <br>
+
+-	Won the >>venture>> 2025 competition, standing out among a record 396 Swiss startups.
+-	Secured an Innosuisse grant with the Bern University of Applied Sciences (BFH) to accelerate development of its AI-driven imaging platform.
+-	Formed a partnership with the Swiss Foundation for Innovation and Training in Surgery (SFITS) to advance clinical adoption and surgical training.
+-	Ranked #56 in the Swiss Top 100 Startups, reflecting growing national recognition for innovation and impact.
+-	Exhibited at the European Society for Stereotactic and Functional Neurosurgery (ESSFN), showcasing the Neuro Access platform to the global neurosurgical community.
+ <br> <br>
+
+Most importantly, we have real life cases in the operating room. Our device has already been used in 11 neurosurgical procedures, demonstrating its potential to provide surgeons with unprecedented, real-time visualization of brain anatomy and vasculature.
+ <br> <br>
+
+As Clee Medical enters its second year, we continue to expand our partnerships and prepare for broader clinical deployment of the Neuro Access platform to forge the path toward a new era of precision-guided neurosurgery.
+
