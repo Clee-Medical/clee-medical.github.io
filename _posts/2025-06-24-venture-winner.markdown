@@ -8,9 +8,6 @@ tags: [News]
 image: venture.png
 ---
 
-## 🚀 Clee Medical wins the >>venture>> 2025 startup competition <br>
-<br>
-
 Clee Medical is proud to announce that it has been named a winner of the >>venture>> 2025 startup competition, Switzerland’s leading entrepreneurship award. Selected from a record 396 applicants, this recognition highlights Clee Medical’s pioneering work in developing next-generation neurotechnology for real-time intraoperative brain imaging and AI-guided navigation.<br>
 <br>
 The >>venture>> competition, founded by ETH Zurich, McKinsey & Company, Knecht Holding, Innosuisse, and other key partners, celebrates Switzerland’s most promising early-stage companies. The 2025 jury recognized Clee Medical for its unique combination of ultra-high-resolution imaging, AI-based tissue identification, and its potential to transform the way neurosurgeons access and treat the brain.<br>
