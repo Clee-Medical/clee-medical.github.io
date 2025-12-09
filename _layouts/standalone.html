@@ -3,85 +3,12 @@
 
   {% include head.html %}
 
-  <body>
+  {% include header.html %}
 
-    <!-- Page Loader -->
-    <div id="page-loader" class="page-loader"><span class="load-icon"></span></div>
-
-    <!-- Site Header -->
-<header class="site-header parallax" id="home" data-scrollax-parent="true">
-
-  <!-- Parallax Header Image -->
-  <div class="parallax-tech-wrapper">
-    <div class="cover" data-scrollax="properties: { 'translateY': '10%' }">
-      <img src="{{ site.baseurl }}/images/header-image-crop.jpg" alt="Clee Medical" />
+    <!-- Article Content -->
+    <div class="article-content">
+      {{ content }}
     </div>
-  </div>
-
-  <div class="container">
-
-    <!-- Site Navigation Bar -->
-    <div class="row site-navigation-bar parent">
-
-      <!-- Logo -->
-      <div class="col-sm-2 col-xs-4 logo child-center-v">
-        <a href="{{ site.baseurl }}/index.html"><img src="{{ site.baseurl }}/images/logo-focus.svg" width="200"
-            alt="Sera - OnePage Logo by Ohkimur"></a>
-      </div>
-
-      <!-- Toggle Mobile Menu -->
-      <div class="col-xs-8 toggle-menu child-center-v">
-
-        <!-- Burger -->
-        <div class="navTrigger">
-          <i></i><i></i><i></i>
-        </div>
-
-      </div>
-
-      <!-- Navigation Bar -->
-      <div class="col-sm-10 col-xs-12 navigation-bar child-center-v">
-
-        <!-- Navigation Menu -->
-        <nav id="navMenu" class="nav-menu">
-          <ul class="menu">
-            <li class="current-menu-item"><a href="https://cleemedical.com/#home">Home</a></li>
-            <li><a href="https://cleemedical.com/#about">About</a></li>
-            <li><a href="https://cleemedical.com/#parallax-features">Technology</a></li>
-            <li><a href="https://cleemedical.com/#blog">News</a></li>
-            <li><a href="https://cleemedical.com/#team">Team</a></li>
-            <li><a href="https://cleemedical.com/#partners">Partners</a></li>
-            <li><a href="https://cleemedical.com/#contact">Contact</a></li>
-          </ul>
-        </nav>
-
-      </div>
-
-
-    </div>
-
-  </div>
-</header>
-
-    <!-- Page Section -->
-    <section class="site-section blog-section page-layout" id="start">
-      <div class="container">
-
-        <!-- Page Layout -->
-        <div class="row">
-
-          <!-- Content -->
-          <div class="col-md-12 blog-articles-container">
-
-            {{ content }}
-
-          </div>
-
-        </div>
-
-      </div>
-    </section>
-
 
     {% include footer.html %}
 

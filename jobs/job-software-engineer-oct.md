@@ -11,14 +11,12 @@ sitemap: false
 
 ### About Us
 <br> <br>
-
 At Clee Medical, we're pioneering the next generation of medical imaging technology to empower neurosurgeons with real-time images and insights during procedures. Our current focus is a groundbreaking medical device leveraging Optical Coherence Tomography (OCT) to provide live, high-resolution images from within the brain.  
 
 We're now seeking an experienced and ambitious Software Engineer to own the next phase of our real-time data processing and visualization stack—ultimately becoming the foundation for a larger software team as we scale.
 
 ### Role Overview
 <br> <br>
-
 This role is ideal for a hands-on engineer with a background in medical software development and familiar with IEC 62304 standard. You’ll play a central role in shaping the software architecture of our OCT system, translating our functional prototype into a compliant, robust, and production-grade codebase.
 
 You will:
@@ -39,7 +37,6 @@ You will:
 <br>  <br>
 ### Required Qualifications
 <br>  <br>
-
 -	5+ years of experience in software engineering, with at least 2 years in medical devices.
 -	Deep understanding of IEC 62304, including experience with compliant software projects.
 -	Experience with real-time systems, multithreading, and GPU acceleration.
@@ -49,7 +46,6 @@ You will:
 <br>  <br>
 ### Nice to Have
 <br> <br>
-
 -	Experience with class B and C medical software development.
 -	Experience with ISO 13485, ISO 14971, or FDA Class II/III submissions.
 -	Experience in implementing computer vision (U-net, CNN, etc.) algorithms.
@@ -57,7 +53,6 @@ You will:
 <br>  <br>
 ### Why Join Us?
 <br> <br>
-
 -	Be part of a mission-driven company at an early stage.
 -	Work on cutting-edge medical imaging technology with real impact on patient care.
 -	Take ownership of a software platform.
@@ -66,7 +61,6 @@ You will:
 <br>  <br>
 ### Apply Now
 <br> <br>
-
 If you’re excited to build something meaningful, compliant, and technically complex from the ground up—and to grow into a team leader—we’d love to hear from you.
 
 To apply, send your CV and a short introduction to **hiring@cleemedical.com**.
