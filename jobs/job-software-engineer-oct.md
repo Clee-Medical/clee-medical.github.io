@@ -23,12 +23,12 @@ We're now seeking an experienced and ambitious Software Engineer to own the next
 This role is ideal for a hands-on engineer with a background in medical software development and familiar with IEC 62304 standard. You’ll play a central role in shaping the software architecture of our OCT system, translating our functional prototype into a compliant, robust, and production-grade codebase.
 
 You will:
-
+<br>  <br>
 -	Architect and implement software for real-time acquisition, processing, and visualization of OCT data.
 -	Ensure the software development process adheres to IEC 62304 and other relevant standards (e.g., ISO 14971, ISO 13485).
 -	Collaborate closely with hardware, QA/RA, and clinical experts to align system requirements with software implementation.
 -	Lead documentation efforts and establish processes for traceability, risk management, and verification.
-
+<br>  <br>
 ### Key Responsibilities
 <br>  <br>
 
@@ -37,7 +37,7 @@ You will:
 -	Set up testing, version control, and documentation workflows aligned with medical device lifecycle regulations.
 -	Interface with regulatory consultants and prepare for formal submissions.
 -	Help recruit and mentor future engineers as the team grows.
-
+<br>  <br>
 ### Required Qualifications
 <br>  <br>
 
@@ -47,7 +47,7 @@ You will:
 -	Familiarity with OCT systems, medical imaging (e.g., ultrasound, MRI), or related high-data-rate acquisition systems.
 -	Experience in one or more of the following: Qt, VTK/ITK, CUDA/OpenCL, GPGPU frameworks, or image processing libraries.
 -	Strong documentation and communication skills, comfortable in cross-functional teams.
-
+<br>  <br>
 ### Nice to Have
 <br> <br>
 
@@ -55,7 +55,7 @@ You will:
 -	Experience with ISO 13485, ISO 14971, or FDA Class II/III submissions.
 -	Experience in implementing computer vision (U-net, CNN, etc.) algorithms.
 -	UI/UX design for clinical applications.
-
+<br>  <br>
 ### Why Join Us?
 <br> <br>
 
@@ -64,7 +64,7 @@ You will:
 -	Take ownership of a software platform.
 -	Flexible work arrangements and the opportunity to shape a medical device from the ground up.
 -	Collaborate with top-tier engineers and world-class clinicians in an intellectually stimulating and impactful environment.
-
+<br>  <br>
 ### Apply Now
 <br> <br>
 
