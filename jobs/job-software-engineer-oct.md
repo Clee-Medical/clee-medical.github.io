@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Software Engineer – Medical Imaging (Future Tech Lead)"
-permalink: /jobs/software-engineer-medical-imaging/
+title: "Software Engineer"
+permalink: /jobs/swe
 sitemap: false
 robots: noindex, nofollow
 ---
@@ -11,12 +11,14 @@ robots: noindex, nofollow
 **Start Date:** As soon as possible  
 
 ## About Us
+<br> <br>
 
 At Clee Medical, we're pioneering the next generation of medical imaging technology to empower neurosurgeons with real-time images and insights during procedures. Our current focus is a groundbreaking medical device leveraging Optical Coherence Tomography (OCT) to provide live, high-resolution images from within the brain.  
 
 We're now seeking an experienced and ambitious Software Engineer to own the next phase of our real-time data processing and visualization stack—ultimately becoming the foundation for a larger software team as we scale.
 
 ## Role Overview
+<br> <br>
 
 This role is ideal for a hands-on engineer with a background in medical software development and familiar with IEC 62304 standard. You’ll play a central role in shaping the software architecture of our OCT system, translating our functional prototype into a compliant, robust, and production-grade codebase.
 
@@ -28,6 +30,7 @@ You will:
 - Lead documentation efforts and establish processes for traceability, risk management, and verification.
 
 ## Key Responsibilities
+<br> <br>
 
 - Redesign and rebuild core components of our existing OCT software for robustness, maintainability, and compliance.
 - Develop and integrate real-time pipelines for signal processing, image rendering (2D/3D), and user interaction.
@@ -36,6 +39,7 @@ You will:
 - Help recruit and mentor future engineers as the team grows.
 
 ## Required Qualifications
+<br> <br>
 
 - 5+ years of experience in software engineering, with at least 2 years in medical devices.
 - Deep understanding of IEC 62304, including experience with compliant software projects.
@@ -45,6 +49,7 @@ You will:
 - Strong documentation and communication skills, comfortable in cross-functional teams.
 
 ## Nice to Have
+<br> <br>
 
 - Experience with class B and C medical software development.
 - Experience with ISO 13485, ISO 14971, or FDA Class II/III submissions.
@@ -52,6 +57,7 @@ You will:
 - UI/UX design for clinical applications.
 
 ## Why Join Us?
+<br> <br>
 
 - Be part of a mission-driven company at an early stage.
 - Work on cutting-edge medical imaging technology with real impact on patient care.
@@ -60,6 +66,7 @@ You will:
 - Collaborate with top-tier engineers and world-class clinicians in an intellectually stimulating and impactful environment.
 
 ## Apply Now
+<br> <br>
 
 If you’re excited to build something meaningful, compliant, and technically complex from the ground up—and to grow into a team leader—we’d love to hear from you.
 
