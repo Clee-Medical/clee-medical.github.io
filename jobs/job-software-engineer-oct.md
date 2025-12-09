@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: standalone
 title: "Software Engineer"
 permalink: /jobs/swe
 sitemap: false
-robots: noindex, nofollow
 ---
 
 **Location:** Flexible, headquarter in Geneva.  
