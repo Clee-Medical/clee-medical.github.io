@@ -1,0 +1,50 @@
+/* standalone.scss
+   Minimal styling for "secret" job pages:
+   - Adds readable max width + side padding
+   - Forces proper list bullets/indentation even if theme resets them
+*/
+
+.job-standalone-content {
+  // Layout / readability
+  max-width: 900px;     // constrain line length
+  margin: 0 auto;       // center in page
+  padding: 0 1.5rem;    // breathing room left/right
+  font-size: 1.05rem;   // optional readability bump
+  line-height: 1.6;
+
+  // Text spacing
+  p {
+    margin: 0 0 1rem 0;
+  }
+
+  h1, h2, h3, h4 {
+    margin-top: 1.8rem;
+    margin-bottom: 0.8rem;
+    line-height: 1.25;
+  }
+
+  // Lists: fix themes that zero out bullets/padding
+  ul, ol {
+    margin: 0 0 1rem 0;
+    padding-left: 1.6rem; // reliable indentation
+  }
+
+  ul {
+    list-style: disc outside;
+  }
+
+  ol {
+    list-style: decimal outside;
+  }
+
+  li {
+    margin: 0.35rem 0;
+  }
+
+  // Nested lists look nicer
+  li > ul,
+  li > ol {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+}
