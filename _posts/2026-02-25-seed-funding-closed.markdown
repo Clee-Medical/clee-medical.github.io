@@ -9,9 +9,9 @@ image: seed-funding.jpg
 ---
 
 ### Executive Summary
-•	Clee Medical closes its Seed financing round to accelerate development of its real-time intraoperative brain imaging platform, Neuro Access.
-•	The round is led by High-Tech Gründerfonds (HTGF), with participation from Zürcher Kantonalbank, Kickfund, FONGIT, and Venture Kick who join existing investors the Wyss Geneva for Bio and Neuroengineering.
-•	The financing will support product development, clinical validation, and regulatory preparation.
+-	Clee Medical closes its Seed financing round to accelerate development of its real-time intraoperative brain imaging platform, Neuro Access.
+-	The round is led by High-Tech Gründerfonds (HTGF), with participation from Zürcher Kantonalbank, Kickfund, FONGIT, and Venture Kick who join existing investors the Wyss Geneva for Bio and Neuroengineering.
+-	The financing will support product development, clinical validation, and regulatory preparation.
  <br> <br>
 
 **Geneva, Switzerland, 25 February 2026** - Clee Medical, a Swiss neurotechnology startup developing novel ultra-high-resolution real-time imaging for brain surgery, today announced the successful closing of its Seed financing round. The round was led by High-Tech Gründerfonds (HTGF), one of Europe’s most active early-stage investors, with participation from Zürcher Kantonalbank (ZKB), Kickfund, FONGIT, and Venture Kick. The company also benefits from the continued participation from their existing partner and investor, Wyss Geneva.
