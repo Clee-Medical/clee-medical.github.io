@@ -386,6 +386,14 @@ team:
     linkedin: "https://www.linkedin.com/in/alex-klaey/"
 
   # Team Member
+  - name: Charly Leprince
+    tagline: Head of Quality and Regulatory
+    avatar: charly.jpg
+
+    # Social Links
+    linkedin: "https://www.linkedin.com/in/charlyleprince/"
+
+  # Team Member
   - name: David Segar
     tagline: Founding advisor, acting CMO<br> Functional neurosurgeon
     avatar: Dave.jpg
