@@ -48,4 +48,4 @@ Clee Medical was founded in October 2024 and has gained recognition within the S
 HTGF is one of the leading and most active early-stage investors in Germany and Europe, financing startups in the fields of Deep Tech, Industrial Tech, Climate Tech, Digital Tech, Life Sciences and Chemistry. With its experienced investment team, HTGF supports startups in all phases of their development into international market leaders. HTGF invests in pre-seed and seed phases and can participate significantly in later-stage financing rounds. Since its inception in 2005, HTGF has financed around 800 startups and achieved 200 successful exits. HTGF has a fund volume of over 2 billion euros.
  <br> <br> 
 Fund investors in the public-private partnership include the Federal Ministry for Economic Affairs and Energy, KfW Capital as well as 45 companies and family offices. <br>
-For more information, please visit [HTGF website](HTGF.de) and follow us on [LinkedIn](https://www.linkedin.com/company/clee-medical/posts/?feedView=all).
+For more information, please visit [HTGF website](www.HTGF.de) and follow us on [LinkedIn](https://www.linkedin.com/company/clee-medical/posts/?feedView=all).
