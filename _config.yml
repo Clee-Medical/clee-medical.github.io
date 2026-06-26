@@ -393,37 +393,37 @@ team:
     # Social Links
     linkedin: "https://www.linkedin.com/in/charlyleprince/"
 
-  # Team Member
-  - name: David Segar
-    tagline: Founding advisor, acting CMO<br> Functional neurosurgeon
-    avatar: Dave.jpg
+  # # Team Member
+  # - name: David Segar
+  #   tagline: Founding advisor, acting CMO<br> Functional neurosurgeon
+  #   avatar: Dave.jpg
 
-    # Social Links
-    linkedin: "https://www.linkedin.com/in/david-segar/"
+  #   # Social Links
+  #   linkedin: "https://www.linkedin.com/in/david-segar/"
 
-  # Team Member
-  - name: Joe Betts-LaCroix
-    tagline: Founding advisor<br> CEO of Retro Biosciences
-    avatar: Joe.jpg
+  # # Team Member
+  # - name: Joe Betts-LaCroix
+  #   tagline: Founding advisor<br> CEO of Retro Biosciences
+  #   avatar: Joe.jpg
 
-    # Social Links
-    linkedin: "https://www.linkedin.com/in/bettslacroix/"
+  #   # Social Links
+  #   linkedin: "https://www.linkedin.com/in/bettslacroix/"
 
-  # Team Member
-  - name: Sam Rodriques
-    tagline: Founding advisor<br> CEO of FutureHouse
-    avatar: Sam.jpg
+  # # Team Member
+  # - name: Sam Rodriques
+  #   tagline: Founding advisor<br> CEO of FutureHouse
+  #   avatar: Sam.jpg
 
-    # Social Links
-    linkedin: "https://www.linkedin.com/in/samuel-g-rodriques-080a9b22/"
+  #   # Social Links
+  #   linkedin: "https://www.linkedin.com/in/samuel-g-rodriques-080a9b22/"
 
-  # Team Member
-  - name: Mat Stratton
-    tagline: Advisor<br> Principal of COALITION
-    avatar: Mat.jpg
+  # # Team Member
+  # - name: Mat Stratton
+  #   tagline: Advisor<br> Principal of COALITION
+  #   avatar: Mat.jpg
 
-    # Social Links
-    linkedin: "https://www.linkedin.com/in/mat-stratton-a6269317/"
+  #   # Social Links
+  #   linkedin: "https://www.linkedin.com/in/mat-stratton-a6269317/"
 
 
 
