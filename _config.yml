@@ -380,7 +380,7 @@ team:
   # Team Member
   - name: Alexandre Klaey
     tagline: Head of Software
-    avatar: alex.png
+    avatar: alex.jpg
 
     # Social Links
     linkedin: "https://www.linkedin.com/in/alex-klaey/"
@@ -388,7 +388,7 @@ team:
   # Team Member
   - name: Charly Leprince
     tagline: Head of Quality and Regulatory
-    avatar: Charly.jpg
+    avatar: charly.jpg
 
     # Social Links
     linkedin: "https://www.linkedin.com/in/charlyleprince/"
