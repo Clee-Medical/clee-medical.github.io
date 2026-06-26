@@ -393,6 +393,14 @@ team:
     # Social Links
     linkedin: "https://www.linkedin.com/in/charlyleprince/"
 
+  # Team Member
+  - name: Eloise Simpson
+    tagline: Summer Intern
+    avatar: eloise.jpg
+
+    # Social Links
+    linkedin: "https://www.linkedin.com/in/eloiseasimpson/"
+
   # # Team Member
   # - name: David Segar
   #   tagline: Founding advisor, acting CMO<br> Functional neurosurgeon
